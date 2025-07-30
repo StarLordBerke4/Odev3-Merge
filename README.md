@@ -11,10 +11,10 @@
 # 👾 Proje Hakkında
 <p>Bu proje, Google'ın 1998 yılındaki ilk arayüzünü HTML ve CSS etiketlerini kullanarak yeniden oluşturmayı amaçlıyor. "New Branch" yapısı altında geliştirilmiş olması, Git'in dallanma (branching) ve birleştirme (merging) yeteneklerini etkin bir şekilde kullandığını gösteriyor. Proje, temel web teknolojileri olan HTML ile sayfa yapısını kurarken, CSS ile de 1998'in o nostaljik görsel tasarımını yakalamayı hedefliyor. Bu çalışma, hem web geliştirme becerilerini sergilemeni sağlıyor hem de sürüm kontrol süreçlerine ne kadar hakim olduğunu ortaya koyuyor.</p>
 
-# Git Merge İşlemi Detaylı Anlatım
+# 😎 Git Merge İşlemi Detaylı Anlatım
 <p>Git'te "merge" (birleştirme), farklı geliştirme dallarındaki (branch) değişiklikleri tek bir ortak dala entegre etme işlemidir. Bu, özellikle birden fazla kişinin aynı proje üzerinde çalıştığı veya bir geliştiricinin farklı özellikler üzerinde paralel olarak çalıştığı durumlarda kritik öneme sahiptir.</p>
 
-## Neden Merge Yaparız?
+## 📌 Neden Merge Yaparız?
 - <p><b>Paralel Geliştirme:</b> Bir özellik üzerinde çalışırken ana kodu (genellikle main veya master dalı) bozmamak için yeni bir dal oluştururuz. Özellik tamamlandığında, bu dalı ana dala birleştirerek değişiklikleri ana kod tabanına dahil ederiz.</p>
 - <p><b>İş Akışı Yönetimi:</b> Bir projenin farklı aşamalarını veya özelliklerini izole edilmiş dallarda geliştirmek, karışıklığı önler ve hata ayıklamayı kolaylaştırır.</p>
 - <p><b>Kod Bütünlüğü:</b> Farklı dallardaki geliştirmelerin sorunsuz bir şekilde bir araya getirilmesini sağlar.</p>
